@@ -1,0 +1,5 @@
+com/example/qif2csv/Qif2CsvConverter.class
+com/example/qif2csv/Main.class
+com/example/qif2csv/QifParser.class
+com/example/qif2csv/QIFMap.class
+com/example/qif2csv/CsvWriter.class
